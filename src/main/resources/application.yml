@@ -3,7 +3,7 @@ spring:
     name: chatgpt-rabbitmq
 
   rabbitmq:
-    username: rabbitmq_user
+    username:
     password:
     brokerUrl: tcp://103.164.54.61:1883
 #  rabbitmq:
