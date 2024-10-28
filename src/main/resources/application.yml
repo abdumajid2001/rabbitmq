@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: chatgpt-rabbitmq
+
+  rabbitmq:
+    username: rabbitmq_user
+    password:
+    brokerUrl: tcp://103.164.54.61:1883
+#  rabbitmq:
+#    username: guest
+#    password: guest
+#    brokerUrl: tcp://localhost:1883
